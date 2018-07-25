@@ -6,6 +6,6 @@ const Title = props => (
     <h1 className=style.appTitle>props.title</h1>
     <p className=style.appNumberOfTasks>Number of sentences: props.numberoftasks</p>
   </div>
-)
+);
 
-export default Title
+export default Title;
